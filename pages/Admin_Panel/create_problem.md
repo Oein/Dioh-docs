@@ -47,13 +47,23 @@ Example
 ```json
 [
     [
-        score,{
+        score,
+        {
+            "input":"",
+            "output":""
+        },
+        {
             "input":"",
             "output":""
         }
     ],
     [
-        score,{
+        score,
+        {
+            "input":"",
+            "output":""
+        },
+        {
             "input":"",
             "output":""
         }
