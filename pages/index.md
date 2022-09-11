@@ -15,7 +15,3 @@ If solve the problems, then get points. In shop, you can buy things to points.
 **Dioh** has main character named `Dinux`
 
 <Bleed>![https://cdn.discordapp.com/attachments/1018073277635252264/1018353701330636851/DALLE_2022-09-10_11.43.06_-_penguin_pixel_art.png](https://cdn.discordapp.com/attachments/1018073277635252264/1018353701330636851/DALLE_2022-09-10_11.43.06_-_penguin_pixel_art.png)</Bleed>
-
-# Admin Pannel
-
-If you want to make some problems, but if you don't know
