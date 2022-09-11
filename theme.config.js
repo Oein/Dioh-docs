@@ -42,8 +42,4 @@ export default {
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
   footerText: <>MIT {new Date().getFullYear()} © Oein.</>,
-  i18n: [
-    { locale: 'en', text: 'English' },
-    { locale: 'kr', text: '한국어' },
-  ],
 }
